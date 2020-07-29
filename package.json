@@ -1,5 +1,5 @@
 {
-  "name": "gestura",
+  "name": "@puppeteer701vungle/gestura",
   "version": "1.0.4",
   "description": "Cross-platform gesture library for desktop and mobile.",
   "main": "index.js",
